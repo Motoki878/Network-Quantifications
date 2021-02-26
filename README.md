@@ -33,6 +33,13 @@
   Figure 5 shows basic properties of neuronal networks, especially
   (c) shows histgrams of firing rate for excitatory and inhibitory neurons.
   (e) shows histgrams of connectivity strenghs for excitatory and inhibitory neurons.
+  
+-----------------
+  # Reference
+   If you use this code, cite this following article: 
+   
+   Kajiwara, M., Nomura, R., Goetze, F., Akutsu, T., & Shimono, M. (2020). Inhibitory neurons are a Central Controlling regulator in the effective cortical microconnectome. bioRxiv.
+
 
 -----------------
 # To generate figure 5d
