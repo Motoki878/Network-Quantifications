@@ -1,6 +1,6 @@
 # Description
    These codes reproduces results/figures ,,, in the report
-   expeted to be published as Kajiwara et al. (2021) PLOS Computational Biology.
+   expeted to be published as Kajiwara et al. (2021) 
   
 --------------
 # Requirments
