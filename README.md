@@ -27,7 +27,7 @@
    fig5ce
   
 ----------------
-# Description of the code
+# Description of fig5ce.m
 
   This program products figure 5(c)(e).
   Figure 5 shows basic properties of neuronal networks, especially
@@ -41,7 +41,7 @@
    fig5d
   
 ----------------
-# Description of the code
+# Description of fig5d.m
 
   This program products figure 5(d).
   Figure5 shows basic properties of neuronal networks, and especially
@@ -54,7 +54,7 @@
    fig6ab
   
 ----------------
-# Description of the code
+# Description of fig6ab.m
 
   This program products figure 6(a)(b). 
   This figure shows E/I cell categories and k-core centralities, especially
@@ -68,7 +68,7 @@
    fig7ab
   
 ----------------
-# Description of the code
+# Description of fig7ab.m
 
    This program products figure 7(a)(b).
    This figure shows E/I cell category and FVS (Feedback Vertex Set), especially
@@ -82,7 +82,7 @@
    fig7c
   
 ----------------
-# Description of the code
+# Description of fig7c.m
 
    This program products data set for plotting the Venn diagram
    to compare between high KC nodes and FV nodes.
@@ -94,7 +94,7 @@
    suppfig3a
   
 ----------------
-# Description of the code
+# Description of suppfig3a.m
 
    This program products supplemental figure 3(a).
    Figure3 shows basic topologies for a higher density connectivity map, 
@@ -107,7 +107,7 @@
    suppfig3b
   
 ----------------
-# Description of the code
+# Description of suppfig3b.m
 
    This program products supplemental figure 3(b).
    Supp. figure3 shows basic topologies for a higher density connectivity
@@ -120,7 +120,7 @@
    suppfig5
   
 ----------------
-# Description of the code
+# Description of suppfig5.m
 
   This program produces supplemental figure 5.
   This figure shows comparisons between FVS and non-FVS or 
@@ -130,6 +130,5 @@
 ------------------
    # Reference
    If you use this code, cite this following article: 
-   
-   Kajiwara et al. (2021) PLOS Computational Biology.
+   Kajiwara et al. (2021) under review.
 
