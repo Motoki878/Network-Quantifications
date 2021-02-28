@@ -16,9 +16,7 @@
 ----------------
 # Description of fig5b.m
  
-  This program products figure 5(b).
-  Figure 5 shows basic properties of neuronal networks, and
-  especially 5-(b) shows degree histgrams, histgrams of number of connections.
+  This program products a figure showing degree histgrams, histgrams of number of connections.
 
 -----------------
 # To generate figures 5c and 5e
@@ -29,10 +27,7 @@
 ----------------
 # Description of fig5ce.m
 
-  This program products figure 5(c)(e).
-  Figure 5 shows basic properties of neuronal networks, especially
-  the panel (c) shows histgrams of firing rate for excitatory and inhibitory neurons.
-  the panel (e) shows histgrams of connectivity strenghs for excitatory and inhibitory neurons.
+  This program products two figures showing the histgram of firing rate for excitatory and inhibitory neurons, and the histgram of connectivity strenghs for excitatory and inhibitory neurons.
 
 -----------------
 # To generate figure 5d
@@ -43,9 +38,7 @@
 ----------------
 # Description of fig5d.m
 
-  This program products figure 5(d).
-  Figure5 shows basic properties of neuronal networks, and especially
-  the panel (d) shows the total number of identified excitatory and inhibitory neurons.
+  This program products tje figure showing the total number of identified excitatory and inhibitory neurons within cortex, and their ralative ratios.
 
 -----------------
 # To generate figure 6a and 6b
@@ -56,10 +49,7 @@
 ----------------
 # Description of fig6ab.m
 
-  This program products figure 6(a)(b). 
-  This figure shows E/I cell categories and k-core centralities, especially
-  (a) shows the difference of averaged k-core values for excitatory and inhibitory neurons, and
-  (b) shows the difference of averaged k-core values for excitatory and inhibitory neurons within individual layers.
+  This program products two figures showing the difference of averaged k-core values for all cortical excitatory and inhibitory neurons, and showing  the difference of averaged k-core values for excitatory and inhibitory neurons within individual cortical layers.
 
 -----------------
 # To generate figure 7a and 7b
@@ -70,10 +60,7 @@
 ----------------
 # Description of fig7ab.m
 
-   This program products figure 7(a)(b).
-   This figure shows E/I cell category and FVS (Feedback Vertex Set), especially
-   (a) shows the difference of ratios of FVS for excitatory or inhibitory neurons.
-   (b) shoes the difference of ratios of FVS for excitatory or inhibitory neurons within individual layers.
+   This program products two figures showing the difference of ratios of FVS  (Feedback Vertex Set) for all cortical excitatory or inhibitory neurons, and showing the difference of ratios of FVS for excitatory or inhibitory neurons within individual cortical layers.
 
 -----------------
 # To generate basic data for drawing figure 7c
@@ -84,9 +71,8 @@
 ----------------
 # Description of fig7c.m
 
-   This program products data set for plotting the Venn diagram
-   to compare between high K-Core nodes and FVS (Feedback Vertex Set) of nodes.
-
+   This program products data set for comparing between high K-Core nodes and FVS (Feedback Vertex Set) of nodes. The data was utilized to drowing the Venn diagram.
+   
 ------------------
    # Reference
    If you use this code, cite this following article: 
