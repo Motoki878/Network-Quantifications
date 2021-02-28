@@ -8,7 +8,7 @@
   Matlab, Statistical and Signal Processing Toolbox and Statistics and Machine Learning Toolbox are necessary to run these code.
  
 ----------------
-# How to run fig*?
+# How to run fig*.m ?
   - Type the following code in Matlab: 
   
        addpath(genpath('./'));  % addpath all relating branch folders.
