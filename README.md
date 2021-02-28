@@ -9,8 +9,10 @@
  
 ----------------
 # How to run fig*?
-  - addpath(genpath('./'));  % addpath all relating branch folders.
-  - fig*
+  - Type the following code in Matlab: 
+       addpath(genpath('./'));  % addpath all relating branch folders.
+       
+       fig*
   
 ----------------
 # Description of fig5b.m
