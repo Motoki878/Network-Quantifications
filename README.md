@@ -1,11 +1,11 @@
 # Description
-   These codes reproduces results/figures ,,, in the report
-   expeted to be published as Kajiwara et al. (2021) under review.
+   These codes reproduces results/figures in the report, which 
+   expeted to be published as Kajiwara et al. (2021).
   
 --------------
 # Requirments
     
-  Matlab and statistical and signal processing toolbox are necessary to run these code.
+  Matlab, Statistical and Signal Processing Toolbox and Statistics and Machine Learning Toolbox are necessary to run these code.
   
 ----------------
 # To generate figure 5b
