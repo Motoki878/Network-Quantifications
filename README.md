@@ -9,8 +9,8 @@
  
 ----------------
 # How to run fig*?
-  addpath(genpath('./'));  % addpath all relating branch folders.
-  fig*
+  - addpath(genpath('./'));  % addpath all relating branch folders.
+  - fig*
   
 ----------------
 # Description of fig5b.m
