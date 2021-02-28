@@ -87,46 +87,6 @@
    This program products data set for plotting the Venn diagram
    to compare between high KC nodes and FV nodes.
 
------------------
-# To generate supplemental figure 3a
-  
-   addpath(genpath('./'));
-   suppfig3a
-  
-----------------
-# Description of suppfig3a.m
-
-   This program products supplemental figure 3(a).
-   Figure3 shows basic topologies for a higher density connectivity map, 
-   especially panel (a) shows in-degree or out-degree histgrams for all neurons.
-
------------------
-# To generate supplemental figure 3b
-  
-   addpath(genpath('./'));
-   suppfig3b
-  
-----------------
-# Description of suppfig3b.m
-
-   This program products supplemental figure 3(b).
-   Supp. figure3 shows basic topologies for a higher density connectivity
-   map, especially the panel (b) shows histgrams of connectivity strengh.
-
------------------
-# To generate supplemental figure 5
-  
-   addpath(genpath('./'));
-   suppfig5
-  
-----------------
-# Description of suppfig5.m
-
-  This program produces supplemental figure 5.
-  This figure shows comparisons between FVS and non-FVS or 
-  between excitatory neurons and inhibitory neurons 
-  on trplet motif histgram.
-
 ------------------
    # Reference
    If you use this code, cite this following article: 
