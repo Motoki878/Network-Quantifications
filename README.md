@@ -76,7 +76,7 @@
    (b) shoes the difference of ratios of FVS for excitatory or inhibitory neurons within individual layers.
 
 -----------------
-# To generate figure 7c
+# To generate basic data for drawing figure 7c
   
    addpath(genpath('./'));
    fig7c
