@@ -31,8 +31,8 @@
 
   This program products figure 5(c)(e).
   Figure 5 shows basic properties of neuronal networks, especially
-  (c) shows histgrams of firing rate for excitatory and inhibitory neurons.
-  (e) shows histgrams of connectivity strenghs for excitatory and inhibitory neurons.
+  the panel (c) shows histgrams of firing rate for excitatory and inhibitory neurons.
+  the panel (e) shows histgrams of connectivity strenghs for excitatory and inhibitory neurons.
 
 -----------------
 # To generate figure 5d
@@ -45,7 +45,7 @@
 
   This program products figure 5(d).
   Figure5 shows basic properties of neuronal networks, and especially
-  (d) shows the total number of identified excitatory and inhibitory neurons.
+  the panel (d) shows the total number of identified excitatory and inhibitory neurons.
 
 -----------------
 # To generate figure 6a and 6b
@@ -85,7 +85,7 @@
 # Description of fig7c.m
 
    This program products data set for plotting the Venn diagram
-   to compare between high KC nodes and FV nodes.
+   to compare between high K-Core nodes and FVS (Feedback Vertex Set) of nodes.
 
 ------------------
    # Reference
