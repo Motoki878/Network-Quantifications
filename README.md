@@ -1,6 +1,6 @@
 # Description
    These codes reproduces results/figures ,,, in the report
-   expeted to be published as Kajiwara et al. (2021).
+   expeted to be published as Kajiwara et al. (2021) under review.
   
 --------------
 # Requirments
