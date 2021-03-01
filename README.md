@@ -10,7 +10,7 @@
 ----------------
 # How to run fig*.m ?
   - (1) Save all files at one directory of your computer.
-  - (3) Type the following code in Matlab: 
+  - (2) Type the following code in Matlab: 
   
             addpath(genpath('./'));  % addpath all relating branch folders.
             fig*
