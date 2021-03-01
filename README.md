@@ -9,7 +9,9 @@
  
 ----------------
 # How to run fig*.m ?
-  - Type the following code in Matlab: 
+  - (1) Save all files at one folder.
+  - (2) Unzip the orig_data.zip.
+  - (3) Type the following code in Matlab: 
   
        addpath(genpath('./'));  % addpath all relating branch folders.
        
