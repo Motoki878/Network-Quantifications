@@ -13,9 +13,9 @@
   - (2) Unzip the orig_data.zip.
   - (3) Type the following code in Matlab: 
   
-       addpath(genpath('./'));  % addpath all relating branch folders.
+            addpath(genpath('./'));  % addpath all relating branch folders.
        
-       fig*
+            fig*
   
 ----------------
 # Description of fig5b.m
