@@ -14,7 +14,6 @@
   - (3) Type the following code in Matlab: 
   
             addpath(genpath('./'));  % addpath all relating branch folders.
-       
             fig*
   
 ----------------
