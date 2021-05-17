@@ -39,8 +39,9 @@ This program products two figures showing the difference of ratios of FVS  (Fee
 # Description of fig7c.m
    This program products data set for comparing between high K-Core nodes and FVS (Feedback Vertex Set) of nodes. The data was utilized to drowing the Venn diagram.
 
-------------------
-   # Reference
+-----------------
+# Reference
    If you use this code, cite this following article: 
-   Kajiwara et al. (2021) under review.
+   
+   Kajiwara, M., Nomura, R., Goetze, F., Kawabata, M., Isomura, Y., Akutsu, T., & Shimono, M. (2021). Inhibitory neurons exhibit high controlling ability in the cortical microconnectome. PLOS Computational Biology, 17(4), e1008846.
 
